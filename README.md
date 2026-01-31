@@ -308,39 +308,6 @@ data: [45, 30, 15, 7, 3]
 
 ---
 
-## 📄 **Documentation Deliverables**
-
-<details>
-<summary><b>📋 Click to View Deliverables List</b></summary>
-
-### **Complete Project Deliverables**
-
-1. **`/screenshots/`** - Visual evidence of each analysis phase
-   - `01_raw_logs.png` - Initial log ingestion
-   - `02_failed_logins.png` - Failed authentication detection
-   - `03_attacker_analysis.png` - IP & username profiling
-   - `04_bruteforce_detection.png` - Threshold alert triggering
-   - `05_timeline.png` - Attack pattern visualization
-   - `06_compromise.png` - Successful authentication evidence
-
-2. **`/spl_queries/`** - All detection SPL queries
-   - `detection_queries.spl` - Primary detection logic
-   - `investigation_queries.spl` - Deep-dive analysis
-   - `correlation_queries.spl` - Cross-event correlation
-
-3. **`/reports/`** - Professional documentation
-   - `SOC_Incident_Report.pdf` - Complete incident report
-   - `Executive_Summary.pdf` - Management brief
-   - `Technical_Analysis.pdf` - Technical deep-dive
-
-4. **`/logs/`** - Sample datasets
-   - `OpenSSH_2k.log` - Training dataset
-   - `auth.log.sample` - Log structure example
-
-</details>
-
----
-
 ## 🌐 **MITRE ATT&CK Mapping**
 
 | Tactic | Technique ID | Technique Name | Detected |

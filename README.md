@@ -435,6 +435,6 @@ If this project helped you learn SOC skills or prepare for interviews, consider 
 
 **"Good SOC analysts don't just detect alerts — they explain attacks and protect organizations."**
 
-© 2024 Batraju Sairam | SOC Analyst Portfolio Project
+© 2026 Batraju Sairam | SOC Analyst Portfolio Project
 
 </div>
